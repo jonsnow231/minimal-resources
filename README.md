@@ -1,7 +1,7 @@
 # Minimal-Resources Obsidian Theme
 * A very lightweight (35 lines; 2 kb) Obsidian CSS theme. 
 
-* Very basic to understand, so that you don't need to worry about anything malicious. Just copy the 35 lines of text into your own .css file. No coding knowledge necessary to understand. 
+* Very easy to understand, so that you don't need to worry about anything malicious. Just copy the 35 lines of text into your own .css file. No coding knowledge necessary to understand. 
 
 * Utilizing black background to consume less power on your device and pale yellow font to ease eye strains. 
 
